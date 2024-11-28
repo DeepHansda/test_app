@@ -1,7 +1,6 @@
 import AppSlider from "@/components/AppSlider";
-import Image from "next/image";
-import { EmblaOptionsType } from 'embla-carousel'
 import MenuLinks from "@/components/MenuLinks";
+import { EmblaOptionsType } from 'embla-carousel';
 
 export default function Home() {
 

@@ -1,6 +1,4 @@
-import { Separator } from '@radix-ui/react-separator';
-import { ArrowBigLeft, ArrowLeft, ArrowRight, ArrowUp, Bell, Heart, Home, MessageSquare, Search, Settings, Star, User } from 'lucide-react';
-import React from 'react'
+import { ArrowRight, Bell, Heart, Home, MessageSquare, Search, Settings, Star, User } from 'lucide-react';
 const items = [
     { name: 'Home', link: '/', icon: <Home /> },
     { name: 'Search', link: '/search', icon: <Search /> },
